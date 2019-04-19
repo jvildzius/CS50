@@ -1,5 +1,5 @@
 # CS50
-My assignment submissions for the Harvard EdX CS50 course over the summmer of 2018.
+My assignment submissions for the Harvard's CS50: Intensive Introduction to Computer Science summmer through fall of 2018.
 
 Week 0: A simple game built on MITs scratch platform to avoid moving objects.
 
